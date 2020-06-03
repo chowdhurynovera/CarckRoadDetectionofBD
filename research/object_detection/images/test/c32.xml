@@ -1,0 +1,38 @@
+<annotation>
+	<folder>crack roads</folder>
+	<filename>c32.jpg</filename>
+	<path>G:/crack roads/c32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>193</ymin>
+			<xmax>636</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>249</ymin>
+			<xmax>640</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

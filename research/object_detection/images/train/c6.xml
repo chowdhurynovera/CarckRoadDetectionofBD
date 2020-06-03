@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crack roads</folder>
+	<filename>c6.jpg</filename>
+	<path>G:/crack roads/c6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>61</ymin>
+			<xmax>231</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
